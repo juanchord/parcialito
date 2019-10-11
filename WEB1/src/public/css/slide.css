@@ -1,0 +1,25 @@
+.wrap-slide{
+
+   background: #333;
+}
+.slidesjs-pagination{
+    display: flex;
+    justify-content: space-around;
+  float: right;
+  list-style: none;
+  width: 300px;
+  min-height: 50px;
+}
+.slidesjs-pagination li{
+    line-height: 45px;
+}
+.slidesjs-pagination li a{
+    color: #fff;
+}
+.slidesjs-previous,
+.slidesjs-next {
+    color: #fff;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 55px;
+}
