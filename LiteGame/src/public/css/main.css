@@ -1,0 +1,63 @@
+
+img{
+    width: 100%;
+    height: 100%;
+}
+#myCard-zone{
+   background: #e5e5e5;
+   padding: 20px;
+
+
+}
+
+#move{
+    margin: 20px;
+}
+
+
+.box-products{
+    max-width: 1300px;
+    margin:  20px auto;
+    background: #fff;
+    border: 1px solid gray;
+    border-radius: 3px;
+    min-height: 400px;
+}
+.box-products .flex{
+    display: flex;
+    justify-content: space-around;
+      
+}
+.box-products .flex  .itla{
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    min-height: 300px;
+    margin: 20px;
+   
+ 
+}
+
+.box-products .flex .itla a{
+    display: block;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.box-products .flex .itla section h2{
+  font-size: 16px;
+}
+.history-box{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+.history-box  article p {
+   font-size: 20px;
+}
+.box-conta{
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+}
